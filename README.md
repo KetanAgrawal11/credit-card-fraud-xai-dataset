@@ -80,11 +80,6 @@ In the meantime, feel free to link to this repository in your work.
 
 ## 🙏 Acknowledgments
 
-This dataset was developed as part of our undergraduate research work at the  
-**Department of Computer Science and Engineering (AI & ML), PCCOE, Pune**.
+This dataset was developed under the guidance of Prof. Pranita Chaudhary, Department of Computer Science (AI & ML), PCCOE, Pune.
 
-We would like to thank our guide, **Prof. Pranita Chaudhary**, for her invaluable mentorship and guidance throughout the development of this dataset and our research paper.
-
-We also appreciate the institutional support and computational resources provided by PCCOE, which enabled us to simulate a realistic, large-scale fraud detection environment.
-
-This work was completed as part of our B.E. final year project with a focus on Explainable AI in financial systems.
+We thank her for the continuous mentorship, insightful feedback, and support throughout the development of this research work.
