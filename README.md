@@ -71,7 +71,7 @@ If this dataset supports your work, please cite the following **working paper**:
 > Ketan Agrawal, Raghvendra Kotgire, Abhay Ingle, Anuj Chandak, Pranita Chaudhary  
 > *Under review at an IEEE-affiliated international conference (2025)*  
 >  
-> [GitHub Repository Link](https://github.com/yourusername/your-repo)
+> [GitHub Repository Link](https://github.com/KetanAgrawal11/credit-card-fraud-xai-dataset)
 
 We will update this section with the official DOI and citation details once the paper is published.
 
