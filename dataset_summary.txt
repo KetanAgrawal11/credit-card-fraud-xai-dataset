@@ -1,0 +1,13 @@
+total_records: 1400000
+training_records: 1120000
+testing_records: 280000
+fraud_rate: 0.06999999999999999
+anomaly_rate: 0.25
+unique_users: 70000
+unique_cards: 146184
+transaction_date_range: 01-01-2020 00:18 to 31-12-2022 23:56
+average_transaction_amount: 88.92869540714287
+category_distribution: {'grocery_pos': 251753, 'restaurant': 210540, 'gas_transport': 195564, 'retail': 182330, 'online_shopping': 168885, 'entertainment': 111889, 'health': 97677, 'travel': 97564, 'services': 83798}
+payment_method_distribution: {'Chip Transaction': 769359, 'Contactless Payment': 349201, 'Online Transaction': 211293, 'Swipe Transaction': 70147}
+region_distribution: {'US': 625970, 'EU': 425374, 'APAC': 209188, 'LATAM': 139468}
+generation_time_seconds: 4968.796673297882
